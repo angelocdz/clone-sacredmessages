@@ -1,0 +1,24 @@
+{
+  "name": "sacredmessages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://angelocdz.github.io/clone-sacredmessages",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelocdz/clone-sacredmessages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelocdz/clone-sacredmessages/issues"
+  },
+  "homepage": "https://github.com/angelocdz/clone-sacredmessages#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
